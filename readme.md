@@ -38,3 +38,25 @@ To set up the project on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bank-customer-churn-prediction.git
+
+   Navigate to the project directory:
+bash
+Copy code
+cd bank-customer-churn-prediction
+Install the required packages:
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+Run the web application:
+bash
+Copy code
+python app.py
+Open your web browser and go to http://localhost:5000 to use the application.
+Contributor
+Sumaila Ayamba
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+markdown
+
