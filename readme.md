@@ -43,7 +43,7 @@ To set up the project on your local machine, follow these steps:
 bash
 Copy code
 cd bank-customer-churn-prediction
-Install the required packages:
+### Install the required packages:
 bash
 Copy code
 pip install -r requirements.txt
@@ -52,9 +52,9 @@ Usage
 bash
 Copy code
 python app.py
-Open your web browser and go to http://localhost:5000 to use the application.
-Contributor
-Sumaila Ayamba
+### Open your web browser and go to 
+http://localhost:5000 to use the application.
+### Sumaila Ayamba
 ## License
 MIT License
 
